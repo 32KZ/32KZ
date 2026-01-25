@@ -1,5 +1,5 @@
 # 32KZ
-<img width="622" height="605" alt="ryuukoeduit" src="https://github.com/user-attachments/assets/f9ae285c-d3bc-4d51-9aa2-416de56e5f06" />
+<img width="311" height="302" alt="ryuukoeduit" src="https://github.com/user-attachments/assets/f9ae285c-d3bc-4d51-9aa2-416de56e5f06" />
 
 I build **automation systems** and **game/server tooling** — focused on reliability, security, and EXACTLY what is needed. 
 
