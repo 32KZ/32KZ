@@ -8,7 +8,7 @@ I build **automation systems** and **game/server tooling** — focused on reliab
 
 ---
 
-## What I'm working on
+## What I'm working on RN
 - **Client Side Enrichment**: yeah i aint talkin bout this one it PRIVATE HA-HA.
 - **Automation Systems**: workflow templates, credential-safe designs, webhook/API integrations  
 - **Server Tooling**: custom plugins, permissions systems (LuckPerms), performance & stability  
