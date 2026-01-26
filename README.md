@@ -8,39 +8,6 @@
   <img height="28" src="https://img.shields.io/badge/HTML5-3c3c3c" />
 </p>
 
-<h1 align="center" style="margin: 0;">
-  <span class="kz-type">32KZ</span><span class="kz-cursor">█</span>
-</h1>
-
-<style>
-  .kz-type{
-    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-    font-size: clamp(34px, 6vw, 64px);
-    font-weight: 800;
-    letter-spacing: 0.08em;
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    width: 0;
-    animation: kz-type 1.2s steps(4, end) forwards;
-  }
-  .kz-cursor{
-    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-    font-size: clamp(34px, 6vw, 64px);
-    margin-left: 6px;
-    opacity: 1;
-    animation: kz-blink .9s infinite steps(1, end);
-  }
-
-  @keyframes kz-type{
-    to { width: 4ch; }
-  }
-  @keyframes kz-blink{
-    50% { opacity: 0; }
-  }
-</style>
-
-
 I build **automation systems** and **game/server tooling** — focused on reliability, security, and EXACTLY what is needed. 
 
 - ⚙️ Current focus: **Minecraft (Paper/Spigot) plugin development** + Client Side Development  
