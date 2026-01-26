@@ -1,4 +1,5 @@
-![download](https://github.com/user-attachments/assets/85cb8957-df38-40bc-bb8c-7c54a8440f86) ![download](https://github.com/user-attachments/assets/081976bb-7b29-488f-87a0-124b732d4740) ![download](https://github.com/user-attachments/assets/ff22159a-19f3-4c06-b266-4da1e59b5281) ![BADGE](https://github.com/user-attachments/assets/73b1d126-64c9-4de8-9351-2c4f794a881e)
+![BADGE](https://github.com/user-attachments/assets/85cb8957-df38-40bc-bb8c-7c54a8440f86) ![download](https://github.com/user-attachments/assets/081976bb-7b29-488f-87a0-124b732d4740) ![BADGE](https://github.com/user-attachments/assets/ff22159a-19f3-4c06-b266-4da1e59b5281) ![BADGE](https://github.com/user-attachments/assets/73b1d126-64c9-4de8-9351-2c4f794a881e) ![BADGE](https://img.shields.io/badge/HTML5-3c3c3c)
+
 ---
 # 32KZ
 I build **automation systems** and **game/server tooling** — focused on reliability, security, and EXACTLY what is needed. 
