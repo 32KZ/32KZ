@@ -22,10 +22,37 @@ I build **automation systems** and **game/server tooling** — focused on reliab
 
 ## Featured Projects
 NONE Cuz' yall aint got access ✨✨✨✨
+
+well- sneak peek... here...
+
+## **ZEKE-UI**
+
+a revamp of EDEX-UI with a more complete feature-set, bug free UI, with an inbuilt JARVIS, fully customisable theme, and inbuilt desktop, popout windows and custom shortcuts for each widget
+
+# Features:
+
+14 Widgets (FILES, PROGRAMMING(MONACO ENGINE), PROJECT(SUPPORTS BUILDING), TASK MANAGER, TERMINAL(GITBASH,WSL,CMD,POWERSHELL CONNECTS TO ACTIVE FILES WIDGET) GLOBAL SITUATION AND MUCH MORE)
+
+Infinite workspaces you can rename reorder and create and export.
+
+modular widget structure allowing user defined expansion
+
+NOVA AI that orchestrates your ruflow swarm through voice or text using REALTIME speech model
+
+10 RANDOM Custom Splashes on start up (configurable / matching persistant user theme convetion).
+
+Mobile app to dispatch work from, using sleep bluetooth conectivity with headphones for Allways in ear Support, connecting to XR Glasses for Edith Style control.
+
+
+INDEV at v0.16.47
+<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/8a2f4c41-2935-4698-8eb7-e447a3e48d52" />
+<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/5dca29db-be0c-47ad-9777-986f372c8d8c" />
+<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/81a4c4f7-ddb1-496f-89cd-de8e03c7afef" />
+
 ---
 
 ## Skillset
-**Languages:** C#, Java, Python, JavaScript
+**Languages:** C#, Java, Python, JavaScript, Typescript, Electron
 
 **Minecraft:** Paper/Spigot, Gradle/Maven, LuckPerms ecosystem, Meteor Addons, TCP/IP
 
