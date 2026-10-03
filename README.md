@@ -10,8 +10,8 @@
 
 I build **automation systems** and **game/server tooling** — focused on reliability, security, and EXACTLY what is needed. 
 
-- ⚙️ Current focus: **Minecraft (Paper/Spigot) plugin development** + Client Side Development  
-- 🎮 Also: **n8n + Docker** workflows, AI integrations, and production-grade automation patterns   
+- ⚙️ Current focus: **ZEKE-UI & SUPERNOVA** - Inspired by EDEXUI and CoLateral
+- 🎮 Also: **Minecraft (Paper/Spigot) plugin development** + Client Side Development + **n8n + Docker** workflows, AI integrations, and production-grade automation patterns   
 - 🔥 My Main Deal: See Cool shit --> Think cool shit --> Build Cool shit 
 ---
 ## What I'm working on RN
