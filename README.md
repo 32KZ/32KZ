@@ -15,7 +15,8 @@ I build **automation systems** and **game/server tooling** — focused on reliab
 - 🔥 My Main Deal: See Cool shit --> Think cool shit --> Build Cool shit 
 ---
 ## What I'm working on RN
-- **Client Side Enrichment**: yeah i aint talkin bout this one it PRIVATE HA-HA.
+- **Windows Applications**: see ZEKE-UI & SUPERNOVA. SUPERNOVA uses SHIFT+ALT+SPACE to open a raycast like display allways on top that allows me to control AI and inherits ZEKE-UI functionality. 
+- **Client Side Enrichment**: ZEEK-PACKET - a 1.21.1 Minecraft Meteor addon that centralises Useful tools from other mods, namely Autism Client and UIUTILS + some custom modules I made.
 - **Automation Systems**: workflow templates, credential-safe designs, webhook/API integrations  
 - **Server Tooling**: custom plugins, permissions systems (LuckPerms), performance & stability  
 ---
@@ -27,7 +28,7 @@ well- sneak peek... here...
 
 ## **ZEKE-UI**
 
-a revamp of EDEX-UI with a more complete feature-set, bug free UI, with an inbuilt JARVIS, fully customisable theme, and inbuilt desktop, popout windows and custom shortcuts for each widget
+Heavily inspired by EDEX-UI with a more complete feature-set, bug free UI, with an inbuilt JARVIS, fully customisable theme, and inbuilt desktop, popout windows and custom shortcuts for each widget
 
 # Features:
 
