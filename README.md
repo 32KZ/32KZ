@@ -44,10 +44,13 @@ NOVA AI that orchestrates your ruflow swarm through voice or text using REALTIME
 Mobile app to dispatch work from, using sleep bluetooth conectivity with headphones for Allways in ear Support, connecting to XR Glasses for Edith Style control.
 
 
-INDEV at v0.16.34 (now v0.16.49)
+INDEV at v0.16.34 (now v0.22.71)
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/8a2f4c41-2935-4698-8eb7-e447a3e48d52" />
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/5dca29db-be0c-47ad-9777-986f372c8d8c" />
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/81a4c4f7-ddb1-496f-89cd-de8e03c7afef" />
+
+Development has slowed on ZEKEUI- though im repurposing it into SUPERNOVA.
+at some point, i'll make these open source.
 
 ---
 
