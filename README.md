@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://32kz.github.io/32kzWebsite/">
-    <img src="./assets/website-button.svg" width="800" alt="Visit my website for canary updates!" />
+    <img src="./assets/website-button.svg" width="400" alt="Visit my website for canary updates!" />
   </a>
 </p>
 
