@@ -13,6 +13,9 @@ Reviewed on 17 November 2026, against the public `32KZ/32KZ` README at commit `4
 - Leave SUPERNOVA as a heading and successor label, ready for a new description, as requested.
 - Separate languages from Electron, and place TCP/IP with networking.
 - Add useful alternative text to the existing graphics.
+- Keep the original ⚙️, 🎮, 🔥, ✅, and ✨ emojis alongside the relevant content.
+- Place the contribution calendar directly below the original C#, Java, Meteor, n8n, and HTML5 badges.
+- Add compact Skill Icons within the relevant skill table cells, retaining every written technology name.
 - Replace the absolute "bug free" claim with a description of the interface. Treat the two version numbers as historical notes rather than a current release claim.
 - Replace the empty "Featured Projects" heading and access joke with the actual project sections. Preserve the private-project status and eventual open-source intention in the archive.
 
@@ -50,23 +53,17 @@ These categories cover the subjects, named tools, and media in the original READ
 
 ## Widget suggestions
 
-Pick one or two extras so the profile stays readable. Only the requested contribution calendar has been added.
+Pick one or two extras so the profile stays readable. The contribution calendar and relevant Skill Icons in the skill table have been added; the other widgets remain suggestions.
 
 | Widget | Why it fits | Source / setup |
 | --- | --- | --- |
 | Compact project status panel | Best fit: show SUPERNOVA as ZEKE-UI's successor, ZEEK-PACKET's Minecraft version, and whether each project is private. Update the labels manually so they stay honest. | Native Markdown table or locally stored SVG; no external service required. Add SUPERNOVA details when ready. |
 | Contribution snake | A playful animation using the same contribution grid. Best placed near the bottom so it doesn't compete with the new calendar. | [Platane/snk](https://github.com/Platane/snk), generated with GitHub Actions. |
-| Consistent skill icon strip | A cleaner visual row for C#, Java, Python, TypeScript, Electron, Docker, and Linux. Use this as a replacement for the existing badges if desired. | [Skill Icons](https://github.com/tandpfun/skill-icons). |
+| Skill Icons in the skill table (added) | Compact icons for the listed languages, Electron, Gradle/Maven, PostgreSQL, and infrastructure tools. Written labels remain for every tool, including those without a matching icon. The existing header badges are retained. | [Skill Icons](https://github.com/tandpfun/skill-icons). |
 | One compact metrics card | Useful for a recent activity or language breakdown without stacking multiple statistics panels. Public-repository language percentages describe repository code, not skill level, and will miss private project code. | [lowlighter/metrics](https://github.com/lowlighter/metrics). Choose just the relevant modules. |
 | Public release / build badges | Useful on individual public projects once there is a release or workflow worth following. Avoid badges that imply visitors can access private repos. | [Shields.io](https://shields.io/badges) for project-specific badges. |
 
-Optional skill strip (not added):
-
-```md
-[![C#, Java, Python, JavaScript, TypeScript, Electron, Docker, Linux](https://skillicons.dev/icons?i=cs,java,py,js,ts,electron,docker,linux&perline=8)](https://skillicons.dev)
-```
-
-My suggested combination is **the contribution calendar + one small project status panel**. A snake can be an optional footer flourish. Another general activity graph would duplicate the calendar.
+The current combination is **the contribution calendar + Skill Icons within the skill table**. A small project status panel or snake could be an optional later addition. Another general activity graph would duplicate the calendar.
 
 ## Contribution calendar maintenance
 

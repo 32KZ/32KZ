@@ -1,11 +1,3 @@
-<a href="https://github.com/32KZ?tab=overview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg" />
-    <img src="./assets/contributions-dark.svg" width="1367" alt="32KZ's contribution calendar for the last year. Open my GitHub profile for daily contribution details." />
-  </picture>
-</a>
-
 <img width="2048" height="713" alt="32KZ profile banner" src="https://github.com/user-attachments/assets/11c83bdd-52dc-4680-bb8b-25473d21df4a" />
 
 <p align="center">
@@ -16,15 +8,23 @@
   <img height="28" alt="HTML5" src="https://img.shields.io/badge/HTML5-3c3c3c" />
 </p>
 
+<a href="https://github.com/32KZ?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg" />
+    <img src="./assets/contributions-dark.svg" width="1367" alt="32KZ's contribution calendar for the last year. Open my GitHub profile for daily contribution details." />
+  </picture>
+</a>
+
 I build **Windows apps**, **automation systems**, and **Minecraft tools**, with a focus on reliability, security, and exactly what's needed.
 
-**See cool shit → Think cool shit → Build cool shit.**
+🔥 **See cool shit → Think cool shit → Build cool shit.**
 
 [SUPERNOVA](#supernova) · [Minecraft](#minecraft) · [Automation](#automation) · [Skillset](#skillset) · [Older stuff](#older-stuff)
 
 ## SUPERNOVA
 
-The successor to **ZEKE-UI**.
+⚙️ The successor to **ZEKE-UI**.
 
 <!-- Add the SUPERNOVA overview, features, and screenshots here. -->
 
@@ -32,7 +32,7 @@ The successor to **ZEKE-UI**.
 
 ### ZEEK-PACKET — client tools
 
-A **Minecraft 1.21.1 Meteor addon** that brings together useful tools from Autism Client and UIUtils, alongside my own custom modules.
+🎮 A **Minecraft 1.21.1 Meteor addon** that brings together useful tools from Autism Client and UIUtils, alongside my own custom modules.
 
 ### Plugins & server tooling
 
@@ -53,17 +53,17 @@ A **Minecraft 1.21.1 Meteor addon** that brings together useful tools from Autis
 
 | Area | Tools & technologies |
 | --- | --- |
-| Languages | C#, Java, Python, JavaScript, TypeScript, HTML |
-| Desktop apps | Electron |
-| Minecraft | Paper/Spigot, Meteor addons, LuckPerms, Gradle, Maven |
-| Automation & data | n8n, REST APIs, webhooks, OAuth, PostgreSQL |
-| Infrastructure & networking | Docker, Linux, Nginx, GitHub Actions, TCP/IP |
+| Languages | C#, Java, Python, JavaScript, TypeScript, HTML<br><br><img src="https://skillicons.dev/icons?i=cs,java,py,js,ts,html" width="192" height="28" alt="C#, Java, Python, JavaScript, TypeScript, HTML icons" /> |
+| Desktop apps | Electron<br><br><img src="https://skillicons.dev/icons?i=electron" width="28" height="28" alt="Electron icon" /> |
+| Minecraft | Paper/Spigot, Meteor addons, LuckPerms, Gradle, Maven<br><br><img src="https://skillicons.dev/icons?i=gradle,maven" width="61" height="28" alt="Gradle and Maven icons" /> |
+| Automation & data | n8n, REST APIs, webhooks, OAuth, PostgreSQL<br><br><img src="https://skillicons.dev/icons?i=postgres" width="28" height="28" alt="PostgreSQL icon" /> |
+| Infrastructure & networking | Docker, Linux, Nginx, GitHub Actions, TCP/IP<br><br><img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions" width="126" height="28" alt="Docker, Linux, Nginx, GitHub Actions icons" /> |
 
 ## Principles
 
-- **Common sense.**
-- **Put control in the end user's hands.**
-- **I'm the dev.**
+- ✅ **Common sense.**
+- ✅ **Put control in the end user's hands.**
+- ✅ **I'm the dev.**
 
 ## Contact
 
@@ -73,7 +73,7 @@ A **Minecraft 1.21.1 Meteor addon** that brings together useful tools from Autis
 ## Older stuff
 
 <details>
-<summary><strong>ZEKE-UI — the foundation for SUPERNOVA</strong></summary>
+<summary><strong>ZEKE-UI — the foundation for SUPERNOVA ✨✨✨✨</strong></summary>
 
 ### Overview
 
