@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://32kz.github.io/32kzWebsite/">
-    <img src="./assets/website-button.svg" width="400" alt="Visit my website for canary updates!" />
-  </a>
-</p>
-
 <img width="2048" height="713" alt="32KZ profile banner" src="https://github.com/user-attachments/assets/11c83bdd-52dc-4680-bb8b-25473d21df4a" />
 
 <p align="center">
@@ -26,7 +20,17 @@ I build **Windows apps**, **automation systems**, and **Minecraft tools**, with 
 
 🔥 **See cool shit → Think cool shit → Build cool shit.**
 
-[SUPERNOVA](#supernova) · [Minecraft](#minecraft) · [Automation](#automation) · [Skillset](#skillset) · [Older stuff](#older-stuff)
+<p align="center">
+  <a href="https://32kz.github.io/32kzWebsite/">
+    <img src="./assets/website-button.svg" width="400" alt="Visit my website for canary updates!" />
+  </a>
+  <br /><br />
+  <a href="#supernova"><img src="./assets/nav-supernova.svg" width="154" height="44" alt="SUPERNOVA" /></a>
+  <a href="#minecraft"><img src="./assets/nav-minecraft.svg" width="144" height="44" alt="Minecraft" /></a>
+  <a href="#automation"><img src="./assets/nav-automation.svg" width="158" height="44" alt="Automation" /></a>
+  <a href="#skillset"><img src="./assets/nav-skillset.svg" width="120" height="44" alt="Skillset" /></a>
+  <a href="#older-stuff"><img src="./assets/nav-older-stuff.svg" width="144" height="44" alt="Older stuff" /></a>
+</p>
 
 ## SUPERNOVA
 
