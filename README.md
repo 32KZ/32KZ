@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://32kz.github.io/32kzWebsite/">
+    <img src="./assets/website-button.svg" width="800" alt="Visit my website for canary updates!" />
+  </a>
+</p>
+
 <img width="2048" height="713" alt="32KZ profile banner" src="https://github.com/user-attachments/assets/11c83bdd-52dc-4680-bb8b-25473d21df4a" />
 
 <p align="center">
